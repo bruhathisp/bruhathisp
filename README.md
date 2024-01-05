@@ -28,6 +28,39 @@
 
 
 
+
+### 🚀 **Work Experience**
+1. **Advanced Computer and Communication Society IIIT Bangalore**
+   - *Jul 2021 - Mar 2022*
+   - Implemented a cutting-edge AI and ML model for Smart Home Energy Management System.
+   - Collaborated on the development of an innovative smart home energy management app.
+
+2. **Intel Unnati Grand Challenge, IIIT Hyderabad**
+   - *Aug 2023 - Nov 2023*
+   - Addressed road accident data with ADAS alerts using Intel’s Mobility Dataset.
+   - Created interactive data visualizations and dashboards, presented at a national conference.
+   - Collaborated on building a comprehensive perception and localization model for autonomous vehicles.
+
+3. **Intel Unnati Industrial Training, IIIT Bangalore**
+   - *May 2023 - July 2023*
+   - Completed Intel's industrial training program on FashionMNIST with CNNs using Computer Vision.
+   - Optimized model architecture and presented project findings, receiving recognition for innovation.
+
+4. **Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES 2022)**
+   - *July 2022*
+   - Collaborated on a research paper and presentation at an International Conference.
+   - Achieved a 98% accuracy rate for a Robust Smart Face Recognition System.
+
+5. **Implementation of Lane Detection with FPGA and Sobel Filter, Chennai, TamilNadu**
+   - Possessed a strong understanding of DSP fundamentals and FPGA development.
+
+6. **Decentralised ERC-20 Token Exchange, Chennai, TamilNadu**
+   - Developed a Decentralised ERC-20 Token Exchange with React JS and blockchain technology.
+   - Conducted extensive testing, resulting in a 99.9% success rate for all transactions.
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruhathisp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bruhathi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="bruhathi" /></p>
