@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Bruhathi/h1>
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 
@@ -28,8 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruhathisp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruhathisp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bruhathi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="bruhathi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruhathisp&&theme=tokyonight" alt="rishavchanda" /></p>
+
