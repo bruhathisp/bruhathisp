@@ -65,4 +65,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="bruhathi" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?bruhathisp=DenverCoder1)](https://git.io/streak-stats)
+
 
