@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Testing and Optimisation**
 
-- 💬 Ask me about **Machine Learning , MERN**
+- 💬 Ask me about **Machine Learning , Spark**
 
 - 📫 How to reach me **bruhathisathya@gmail.com**
 
@@ -31,12 +31,11 @@
 
 
 
-### 🚀 **Work Experience**
-1. **Advanced Computer and Communication Society IIIT Bangalore**
-   - *Jul 2021 - Mar 2022*
-   - Implemented a cutting-edge AI and ML model for Smart Home Energy Management System.
-   - Collaborated on the development of an innovative smart home energy management app.
+### 🚀 **Professional Experience**
 
+1. Amazon, Banglore
+   - *Jan 2025 - Present*
+     
 2. **Intel Unnati Grand Challenge, IIIT Hyderabad**
    - *Aug 2023 - Nov 2023*
    - Addressed road accident data with ADAS alerts using Intel’s Mobility Dataset.
@@ -54,20 +53,10 @@
    - Achieved a 98% accuracy rate for a Robust Smart Face Recognition System.
 
 5. **Implementation of Lane Detection with FPGA and Sobel Filter, Chennai, TamilNadu**
-   - Possessed a strong understanding of DSP fundamentals and FPGA development.
-
-6. **Decentralised ERC-20 Token Exchange, Chennai, TamilNadu**
-   - Developed a Decentralised ERC-20 Token Exchange with React JS and blockchain technology.
-   - Conducted extensive testing, resulting in a 99.9% success rate for all transactions.
+   - Strong understanding of DSP fundamentals and FPGA development.
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruhathisp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bruhathi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruhathisp&show_icons=true&locale=en&theme=tokyonight" alt="bruhathi" /></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bruhathisp&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
