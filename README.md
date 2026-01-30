@@ -18,7 +18,7 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
 <!-- Scala Logo Added -->
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/> </a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/> </a>
 <!-- Arduino Logo Removed -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
