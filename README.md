@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 
-- 🔭 I’m currently working on **ML Optimisation with IntelOneAPI**
+- 🔭 I’m currently working on optimizing Spark for cost and performance. This includes implementing incremental data processing, leveraging structured streaming for stateful operations to maximize cluster efficiency.
 - 🌱 I’m currently learning **Testing and Optimisation**
 - 💬 Ask me about **Machine Learning, Spark, Scala, Distributed Systems**
 - 📫 How to reach me **bruhathisathya@gmail.com**
